@@ -3,9 +3,9 @@
 
  ## Display information
 Here are links to our active displays:\
-CFAF800480Hx-043SN\
-CFAF800480Hx-043SC\
-CFAF800480Hx-043SR
+[CFAF800480Hx-043SN](https://www.crystalfontz.com/product/cfaf800480h0043sn-800x480-4-point-3-inch-tft-display)\
+[CFAF800480Hx-043SC](https://www.crystalfontz.com/product/cfaf800480h0043sc-800x480-4-point-3-inch-capacitive-touchscreen-tft-display)\
+[CFAF800480Hx-043SR](https://www.crystalfontz.com/product/cfaf800480h0043sr-800x480-4-point-3-inch-resistive-touch-tft-display)
 
 For more information about other TFT offerings, please see our full list [here](https://www.crystalfontz.com/c/tft-lcd-displays/25)
 
